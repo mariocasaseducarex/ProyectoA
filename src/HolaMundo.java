@@ -2,7 +2,7 @@
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		// TODO Esbozo de mÈtodo generado autom·ticamente
+		// TODO Esbozo de m√©todo generado autom√°ticamente
 		
 		System.out.println("Hola Mundo");
 		
@@ -12,9 +12,11 @@ public class HolaMundo {
 		
 		int edad=51;
 		
-		System.out.println("Tu edad es " + edad + " aÒos.");
+		System.out.println("Tu edad es " + edad + " a√±os.");
 		
 		System.out.println("sincronizando");
+
+		System.out.println("Hola Caracola");
 
 	}
 
